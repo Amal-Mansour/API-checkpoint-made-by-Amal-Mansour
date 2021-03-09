@@ -1,0 +1,29 @@
+.cards-container {
+  margin-top: 90px !important;
+  margin-left: 50px !important;
+  padding: 5px;
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+}
+
+.nav-style {
+  font-size: 19px !important;
+  margin-left: 18px !important;
+  font-style: oblique !important;
+}
+
+.style-img {
+  width: 45% !important;
+  margin-left: 86px;
+  border-radius: 58px !important;
+}
+
+.stylt-Cards {
+  background-image: url("./assets/back1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 25px;
+  margin-left: 40px !important;
+}
